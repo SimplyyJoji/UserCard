@@ -1,0 +1,60 @@
+* {
+  margin: 0px;
+  padding:0px;
+}
+
+.container {
+  margin: 15rem auto;
+  border: 2px solid black;
+  width: 40rem;
+  height: 20rem;
+
+}
+.outerCard{
+  padding: 3.5rem;
+  background-color: rgb(23, 187, 187);
+}
+
+.topP {
+  position: relative;
+  top: 2rem;
+}
+.bottomP {
+  position: relative;
+  top: 2rem;
+}
+
+h2 {
+  position: relative;
+  top: 20px;
+  left: 5px;
+}
+
+.card {
+  margin: 25px; 
+}
+
+.user {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  bottom: 28rem;
+  left: 34rem;
+}
+
+h1 {
+  position: relative;
+  top: 10px;
+}
+
+.icon {
+  width: 10px;
+  height: 15px;
+  position: relative;
+  right: 10px;
+}
+.link {
+  position: relative;
+  top: 2.5rem;
+  left: .5rem;
+}
